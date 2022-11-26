@@ -13,10 +13,7 @@
 	},
 	"dependencies": {
 		"create-serve": "https://github.com/kevinfiol/serve.git",
-		"esbuild": "^0.9.0"
-	},
-	"devDependencies": {
-		"prettier": "^2.2.1"
+		"esbuild": "^0.15.15"
 	},
 	"files": [
 		"src"
